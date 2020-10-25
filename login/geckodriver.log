@@ -1,0 +1,1816 @@
+1603154925514	geckodriver	INFO	Listening on 127.0.0.1:50829
+1603154928524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofile4508hj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603154941146	Marionette	INFO	Listening on port 50838
+1603154941179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603154950918	Marionette	INFO	Stopped listening on port 50838
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603155013359	geckodriver	INFO	Listening on 127.0.0.1:50882
+1603155016398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileih5dnQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603155020468	Marionette	INFO	Listening on port 50893
+1603155020534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+[Child 11716, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 11716, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1603156078625	Marionette	INFO	Stopped listening on port 50893
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603156199776	geckodriver	INFO	Listening on 127.0.0.1:51388
+1603156202813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileGaV1Rx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603156206905	Marionette	INFO	Listening on port 51396
+1603156206998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603156209641	Marionette	INFO	Stopped listening on port 51396
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603156243246	geckodriver	INFO	Listening on 127.0.0.1:51436
+1603156246281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofiler69ROy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603156250470	Marionette	INFO	Listening on port 51444
+1603156250511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1603156732677	geckodriver	INFO	Listening on 127.0.0.1:51509
+1603156735714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileBu5r2v"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603156740477	Marionette	INFO	Listening on port 51517
+1603156740981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603156745636	Marionette	INFO	Stopped listening on port 51517
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603156747858	geckodriver	INFO	Listening on 127.0.0.1:51566
+1603156750883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilehn0fuP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603156754513	Marionette	INFO	Listening on port 51574
+1603156755012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603156759002	Marionette	INFO	Stopped listening on port 51574
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603156796674	geckodriver	INFO	Listening on 127.0.0.1:51620
+1603156799711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileg4SuuY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603156803891	Marionette	INFO	Listening on port 51629
+1603156803953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603156807386	Marionette	INFO	Stopped listening on port 51629
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603156809790	geckodriver	INFO	Listening on 127.0.0.1:51679
+1603156812800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileWTnx2d"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603156816239	Marionette	INFO	Listening on port 51687
+1603156816424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603156823291	Marionette	INFO	Stopped listening on port 51687
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603156976238	geckodriver	INFO	Listening on 127.0.0.1:51881
+1603156979272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileFQvi9O"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603156983370	Marionette	INFO	Listening on port 51889
+1603156983402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603156991487	Marionette	INFO	Stopped listening on port 51889
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603156993698	geckodriver	INFO	Listening on 127.0.0.1:51933
+1603156996693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileeqcWNY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603157000493	Marionette	INFO	Listening on port 51941
+1603157000817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603157009417	Marionette	INFO	Stopped listening on port 51941
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157045305	geckodriver	INFO	Listening on 127.0.0.1:51995
+1603157048347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileNP1GwN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603157052092	Marionette	INFO	Listening on port 52003
+1603157052478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603157059737	Marionette	INFO	Stopped listening on port 52003
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157061540	geckodriver	INFO	Listening on 127.0.0.1:52051
+1603157064566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileIn1cwK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603157068411	Marionette	INFO	Listening on port 52059
+1603157068702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603157078779	Marionette	INFO	Stopped listening on port 52059
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157093652	geckodriver	INFO	Listening on 127.0.0.1:52107
+1603157096688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilefCzFd7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603157100363	Marionette	INFO	Listening on port 52115
+1603157100826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603157109716	Marionette	INFO	Stopped listening on port 52115
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157111850	geckodriver	INFO	Listening on 127.0.0.1:52159
+1603157114877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileIH3L8B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603157118893	Marionette	INFO	Listening on port 52167
+1603157119009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603157131119	Marionette	INFO	Stopped listening on port 52167
+[Child 9092, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 9092, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 9092, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 9092, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157234824	geckodriver	INFO	Listening on 127.0.0.1:52248
+1603157237862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilewqMyWz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603157241582	Marionette	INFO	Listening on port 52256
+1603157241993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603157250550	Marionette	INFO	Stopped listening on port 52256
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157252309	geckodriver	INFO	Listening on 127.0.0.1:52302
+1603157255337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileVBipte"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603157259394	Marionette	INFO	Listening on port 52310
+1603157259523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603157272417	Marionette	INFO	Stopped listening on port 52310
+[Child 11448, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 11448, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 11448, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 11448, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 11448, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157661870	geckodriver	INFO	Listening on 127.0.0.1:52431
+1603157664900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofile7MKQc4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603157668952	Marionette	INFO	Listening on port 52439
+1603157669029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603157676527	Marionette	INFO	Stopped listening on port 52439
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157678570	geckodriver	INFO	Listening on 127.0.0.1:52491
+1603157681601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofile00wwNF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603157685265	Marionette	INFO	Listening on port 52499
+1603157685749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603157696452	Marionette	INFO	Stopped listening on port 52499
+[Child 12112, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 12112, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 12112, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 12112, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157920473	geckodriver	INFO	Listening on 127.0.0.1:52585
+1603157923514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilexGlG6g"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603157927670	Marionette	INFO	Listening on port 52593
+1603157927762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603157955897	Marionette	INFO	Stopped listening on port 52593
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603157957373	geckodriver	INFO	Listening on 127.0.0.1:52653
+1603157960414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilelhllN3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603157964121	Marionette	INFO	Listening on port 52661
+1603157964551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603157975285	Marionette	INFO	Stopped listening on port 52661
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159190867	geckodriver	INFO	Listening on 127.0.0.1:52832
+1603159193919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileYACNzU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603159199680	Marionette	INFO	Listening on port 52840
+1603159199701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603159213653	Marionette	INFO	Stopped listening on port 52840
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159215323	geckodriver	INFO	Listening on 127.0.0.1:52891
+1603159218337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileSjcdMY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603159221982	Marionette	INFO	Listening on port 52900
+1603159222469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603159233474	Marionette	INFO	Stopped listening on port 52900
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159564578	geckodriver	INFO	Listening on 127.0.0.1:52960
+1603159567619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilezZZQ5j"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603159571533	Marionette	INFO	Listening on port 52968
+1603159571748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603159584929	Marionette	INFO	Stopped listening on port 52968
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159641661	geckodriver	INFO	Listening on 127.0.0.1:53014
+1603159644698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileO7lmR0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603159648643	Marionette	INFO	Listening on port 53022
+1603159648829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603159673599	Marionette	INFO	Stopped listening on port 53022
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603159744872	geckodriver	INFO	Listening on 127.0.0.1:53142
+1603159747907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilepeAsJO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603159751937	Marionette	INFO	Listening on port 53150
+1603159752052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603159768048	Marionette	INFO	Stopped listening on port 53150
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160185751	geckodriver	INFO	Listening on 127.0.0.1:53226
+1603160188775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileBAL3hU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603160193018	Marionette	INFO	Listening on port 53234
+1603160193507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603160212762	Marionette	INFO	Stopped listening on port 53234
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160237971	geckodriver	INFO	Listening on 127.0.0.1:53295
+1603160241020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilel1a368"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603160245295	Marionette	INFO	Listening on port 53303
+1603160245751	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603160271963	Marionette	INFO	Stopped listening on port 53303
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160401329	geckodriver	INFO	Listening on 127.0.0.1:53368
+1603160404356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileLKNE34"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603160408250	Marionette	INFO	Listening on port 53376
+1603160408485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603160432037	Marionette	INFO	Stopped listening on port 53376
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160564544	geckodriver	INFO	Listening on 127.0.0.1:53438
+1603160567582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileMqyVfL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603160571753	Marionette	INFO	Listening on port 53446
+1603160571827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603160613400	Marionette	INFO	Stopped listening on port 53446
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160883852	geckodriver	INFO	Listening on 127.0.0.1:53534
+1603160886895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilenNux8g"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603160892006	Marionette	INFO	Listening on port 53544
+1603160892129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+[Child 3836, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1603160915486	Marionette	INFO	Stopped listening on port 53544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603160922683	geckodriver	INFO	Listening on 127.0.0.1:53608
+1603160925713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileYpvPxq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603160929995	Marionette	INFO	Listening on port 53616
+1603160930448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603160964031	Marionette	INFO	Stopped listening on port 53616
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161108407	geckodriver	INFO	Listening on 127.0.0.1:53684
+1603161111430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofile2YzuaZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603161116259	Marionette	INFO	Listening on port 53692
+1603161116671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603161139934	Marionette	INFO	Stopped listening on port 53692
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161486540	geckodriver	INFO	Listening on 127.0.0.1:53865
+1603161489570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileDDy99k"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603161493889	Marionette	INFO	Listening on port 53873
+1603161494380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! 1603161541372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileRW1wFf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603161546623	Marionette	INFO	Listening on port 53919
+1603161547106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603161602341	Marionette	INFO	Stopped listening on port 53911603161603993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileMumJCu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603161607788	Marionette	INFO	Listening on port 53971
+1603161608118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603161616059	Marionette	INFO	Stopped listening on port 53971
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161782422	geckodriver	INFO	Listening on 127.0.0.1:54009
+1603161785501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilezOmWrt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603161789999	Marionette	INFO	Listening on port 54017
+1603161790243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603161825525	Marionette	INFO	Stopped listening on port 54017
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161898708	geckodriver	INFO	Listening on 127.0.0.1:54075
+1603161901744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofile3a7xe9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603161905635	Marionette	INFO	Listening on port 54083
+1603161905919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603161987326	Marionette	INFO	Stopped listening on port 54083
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603161987903	geckodriver	INFO	Listening on 127.0.0.1:54133
+1603161990943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileh7DjKB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603161994776	Marionette	INFO	Listening on port 54141
+1603161995087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603162052769	Marionette	INFO	Stopped listening on port 54141603162053989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileL528qE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603162058018	Marionette	INFO	Listening on port 54201
+1603162058125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603162459880	Marionette	INFO	Stopped listening on port 54201
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+p\\rust_mozprofileS5xRYA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603162456528	Marionette	INFO	Listening on port 54282
+1603162456594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603162492702	Marionette	INFO	Stopped listening on port 54282
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603162553458	geckodriver	INFO	Listening on 127.0.0.1:54365
+1603162556489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofile0yPREk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603162560829	Marionette	INFO	Listening on port 54373
+1603162561225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! 1603162645286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileJS2XXe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603162649532	Marionette	INFO	Listening on port 54463
+1603162650023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error:1603162829945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileOSTWDd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603162834706	Marionette	INFO	Listening on port 54551
+1603162834787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603163167800	Marionette	INFO	Stopped listening on port 54551
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+p\\rust_mozprofilecxWBb8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603163064973	Marionette	INFO	Listening on port 54626
+1603163065246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603163101228	Marionette	INFO	Stopped listening on port 54626
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+p\\rust_mozprofile32iTjo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603163104698	Marionette	INFO	Listening on port 54708
+1603163104988	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603163161158	Marionette	INFO	Stopped listening on port 54708
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603172744630	geckodriver	INFO	Listening on 127.0.0.1:62853
+1603172747613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofiledD9mya"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603172762529	Marionette	INFO	Listening on port 62861
+1603172763006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://x.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://x.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://survey.taobao.com/survey/Q095thIx2?spm=a2107.1.0.0.12442hwv2hwvO0, line 105: unreachable code after return statement
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://x.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://x.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://x.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://x.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://a.alipayobjects.com/??jquery/jquery/1.9.1/jquery.js,arale/validator/0.9.5/validator.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://a.alipayobjects.com/??jquery/jquery/1.9.1/jquery.js,arale/validator/0.9.5/validator.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript error: https://g.alicdn.com/??/sd/baxia/1.1.13/baxiaCommon.js, line 1: uncaught exception: 未完成验证
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://x.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://x.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://x.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.0/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://x.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+[Parent 10364, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603182829417	Marionette	INFO	Stopped listening on port 62861
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603242251189	geckodriver	INFO	Listening on 127.0.0.1:50177
+1603242254229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileHvIxIE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603242267238	Marionette	INFO	Listening on port 50186
+1603242267674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603242511459	geckodriver	INFO	Listening on 127.0.0.1:50290
+1603242514478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileoBMzBO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603242518841	Marionette	INFO	Listening on port 50298
+1603242519294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603243202394	Marionette	INFO	Stopped listening on port 50298
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603242512856	Marionette	INFO	Stopped listening on port 50186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603242766576	geckodriver	INFO	Listening on 127.0.0.1:50397
+1603242769606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileiban3A"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603242774052	Marionette	INFO	Listening on port 50405
+1603242774445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603243204371	Marionette	INFO	Stopped listening on port 50405
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603243205633	geckodriver	INFO	Listening on 127.0.0.1:50520
+1603243208664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileDvAuye"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603243212808	Marionette	INFO	Listening on port 50528
+1603243212874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: http://www.mamicode.com/js/mamicodejs.js, line 90: TypeError: xt_obj is null
+JavaScript error: https://www.gstatic.com/mysidia/a2cf2b2fc486c28ec994797ab5a1a061.js?tag=video_mra/hulk_v3, line 260: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/a2cf2b2fc486c28ec994797ab5a1a061.js?tag=video_mra/hulk_v3, line 260: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/a2cf2b2fc486c28ec994797ab5a1a061.js?tag=video_mra/hulk_v3, line 260: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/a2cf2b2fc486c28ec994797ab5a1a061.js?tag=video_mra/hulk_v3, line 260: SecurityError: The operation is insecure.
+JavaScript error: https://www.gstatic.com/mysidia/a2cf2b2fc486c28ec994797ab5a1a061.js?tag=video_mra/hulk_v3, line 260: SecurityError: The operation is insecure.
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, l1603246454824	Marionette	INFO	Stopped listening on port 50735
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r: https://g.csdnimg.cn/tingyun/1.8.3/blog.js, line 1: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+1603246395877	Marionette	INFO	Stopped listening on port 50521603246397905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileRaBnhg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603246401943	Marionette	INFO	Listening on port 51350
+1603246402208	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603246452757	Marionette	INFO	Stopped listening on port 51351603246454142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilekDYVdn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603246458006	Marionette	INFO	Listening on port 51422
+1603246458353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+JavaScript error: resource://pdf.js/PdfStreamConverter.jsm, line 1086: NS_ERROR_FAILURE: Ignore PDF.js for this download.
+1603247164536	Marionette	INFO	Stopped listening on port 51422
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+0011	Marionette	INFO	Listening on port 51504
+1603246550315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://blog.csdn.net/sunandstarws/article/details/104497939, line 59: SyntaxError: unexpected token: identifier
+JavaScript error: https://g.csdnimg.cn/baidu-search/1.0.3/baidu-search.js, line 1: SyntaxError: JSON.parse: unterminated string at line 1 column 84 of the JSON data
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: https://g.csdnimg.cn/tingyun/1.8.3/blog.js, line 1: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript error: https://g.csdnimg.cn/??login-box/1.1.4/login-box.js,login-box/1.1.4/login-auto.js, line 1: SecurityError: Permission denied to access property "checkPollingTimer" on cross-origin object
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.85.0/um.js, line 1: WebGL context was lost.
+1603246714082	Marionette	INFO	Stopped listening on port 51501603246714856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileN8TAwU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603246718780	Marionette	INFO	Listening on port 51698
+1603246719051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603247172745	Marionette	INFO	Stopped listening on port 51698
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603247230427	geckodriver	INFO	Listening on 127.0.0.1:52065
+1603286404224	geckodriver	INFO	Listening on 127.0.0.1:64062
+1603286407303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileaVamZK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603286412709	Marionette	INFO	Listening on port 64070
+1603286412796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603286448330	Marionette	INFO	Stopped listening on port 64070
+[Parent 1872, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603286835636	geckodriver	INFO	Listening on 127.0.0.1:64152
+1603286838666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilepmW9nU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603286843339	Marionette	INFO	Listening on port 64160
+1603286843587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603286858391	Marionette	INFO	Stopped listening on port 64160
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603286878305	geckodriver	INFO	Listening on 127.0.0.1:64213
+1603286881354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofiley20XvB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603286886212	Marionette	INFO	Listening on port 64222
+1603286886216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating fa1603287619158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilecG7EQ3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603287624821	Marionette	INFO	Listening on port 64398
+1603287625013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603287632638	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+getSystemConfig@http://erp.lemfix.com/js/common/common.js:102:11
+success@http://erp.lemfix.com/js/pages/materials/in_out.js:189:42
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+y@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:80008
+d@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85578
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85705
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+1603289239074	Marionette	INFO	Stopped listening on port 64398
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+p\\rust_mozprofileVcOdIr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603287672079	Marionette	INFO	Listening on port 64452
+1603287672180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603287695202	Marionette	INFO	Stopped listening on port 64452
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603287695882	geckodriver	INFO	Listening on 127.0.0.1:64502
+1603287698932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilefFbLRB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603287702751	Marionette	INFO	Listening on port 64510
+1603287703181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603287711198	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initOutItemList@http://erp.lemfix.com/js/pages/materials/in_out.js:285:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:39:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603287801492	Marionette	INFO	Stopped listening on port 64510
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603287804650	geckodriver	INFO	Listening on 127.0.0.1:64575
+1603287807709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilefSeC7n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603287812668	Marionette	INFO	Listening on port 64583
+1603287813077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603287820687	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603288252447	Marionette	INFO	Stopped listening on port 64583
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3772, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603288056948	Marionette	INFO	Stopped listening on port 64651603288059088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileEO7UVV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603288063257	Marionette	INFO	Listening on port 64766
+1603288063314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603288070839	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+getSystemConfig@http://erp.lemfix.com/js/common/common.js:102:11
+success@http://erp.lemfix.com/js/pages/materials/in_out.js:189:42
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+y@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:80008
+d@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85578
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85705
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 661"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:661:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 661, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 661: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0)'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603289238203	Marionette	INFO	Stopped listening on port 64766
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+83	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603288270825	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_UB@http://erp.lemfix.com/js/pages/materials/in_out.js:149:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:34:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+IPDL protocol error: Handler returned error code!
+
+###!!! 1603288453437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofile3eSsHt"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603288457667	Marionette	INFO	Listening on port 64929
+1603288457686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603288467956	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85139
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+getSystemConfig@http://erp.lemfix.com/js/common/common.js:102:11
+success@http://erp.lemfix.com/js/pages/materials/in_out.js:189:42
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+y@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:80008
+d@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85578
+send@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:85705
+ajax@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:82575
+initSystemData_depot@http://erp.lemfix.com/js/pages/materials/in_out.js:177:5
+@http://erp.lemfix.com/js/pages/materials/in_out.js:35:3
+k@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:16961
+fireWith@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:17719
+ready@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:12434
+D@http://erp.lemfix.com/js/jquery-1.8.0.min.js:2:9839
+1603288478861	Marionette	INFO	Stopped listening on port 64929
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603288479865	geckodriver	INFO	Listening on 127.0.0.1:64978
+1603288482915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileJr1KsU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603288487138	Marionette	INFO	Listening on port 64986
+1603288487164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603289237699	Marionette	INFO	Stopped listening on port 64986
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+p\\rust_mozprofileD0zfLK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603288600269	Marionette	INFO	Listening on port 65065
+1603288600313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+[Parent 7092, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603288648649	Marionette	INFO	Stopped listening on port 65065
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603288650938	geckodriver	INFO	Listening on 127.0.0.1:65122
+1603288653978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilenMmxY0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603288658241	Marionette	INFO	Listening on port 65132
+1603288658264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603288690287	Marionette	INFO	Stopped listening on port 65132
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603288690835	geckodriver	INFO	Listening on 127.0.0.1:65189
+1603288693895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilePUk2NY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603288698220	Marionette	INFO	Listening on port 65197
+1603288698237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603288873557	Marionette	INFO	Stopped listening on port 65191603288873663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofile2Da5f2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603288877142	Marionette	INFO	Listening on port 65282
+1603288877412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603289009104	Marionette	INFO	Stopped listening on port 65282
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603289009853	geckodriver	INFO	Listening on 127.0.0.1:65352
+1603289012903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileKy2kCg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603289017648	Marionette	INFO	Listening on port 65360
+1603289017791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603289236241	Marionette	INFO	Stopped listening on port 65360
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+p\\rust_mozprofile9ebtmZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603289072390	Marionette	INFO	Listening on port 65421
+1603289072393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603289133200	Marionette	INFO	Stopped listening on port 65421
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603289134445	geckodriver	INFO	Listening on 127.0.0.1:65492
+1603289137485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilea6D8CL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603289141553	Marionette	INFO	Listening on port 65500
+1603289141742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603289181082	Marionette	INFO	Stopped listening on port 65500
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603289182099	geckodriver	INFO	Listening on 127.0.0.1:49160
+1603289185129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofiledy6ASp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603289188938	Marionette	INFO	Listening on port 49168
+1603289189355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603289228844	Marionette	INFO	Stopped listening on port 49168
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603455813579	geckodriver	INFO	Listening on 127.0.0.1:64721
+1603455816678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilePJumGW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603455823939	Marionette	INFO	Listening on port 64729
+1603455824058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603456116598	Marionette	INFO	Stopped listening on port 64729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603456117101	geckodriver	INFO	Listening on 127.0.0.1:64800
+1603456120138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilePOisnp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603456125025	Marionette	INFO	Listening on port 64808
+1603456125413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 661"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:661:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:509:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 661, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 661: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0)'
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1603458942972	Marionette	INFO	Stopped listening on port 64808
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603545819350	geckodriver	INFO	Listening on 127.0.0.1:63613
+1603545822460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileJeLnm3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603545843680	Marionette	INFO	Listening on port 63621
+1603545843741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603549338958	Marionette	INFO	Stopped listening on port 63621
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+p\\rust_mozprofileDpo3Lo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603545906703	Marionette	INFO	Listening on port 63689
+1603545907434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603546040954	Marionette	INFO	Stopped listening on port 63681603546042357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilemuYKhk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603546048110	Marionette	INFO	Listening on port 63749
+1603546048128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603546116564	Marionette	INFO	Stopped listening on port 63749
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603546117248	geckodriver	INFO	Listening on 127.0.0.1:63799
+1603546120287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofile9nyyHz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603546124734	Marionette	INFO	Listening on port 63808
+1603546125060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,n1603546236557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileHNtueg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603546240674	Marionette	INFO	Listening on port 63880
+1603546240713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603547102712	Marionette	INFO	Stopped listening on port 63880
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603547104668	geckodriver	INFO	Listening on 127.0.0.1:63985
+1603547107704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileCGAcHP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603547112697	Marionette	INFO	Listening on port 63993
+1603547112993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1603547191461	Marionette	INFO	Stopped listening on port 63991603547192988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofilexQqUnn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603547197462	Marionette	INFO	Listening on port 64058
+1603547197773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603547213791	Marionette	INFO	Stopped listening on port 64058
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603547241111	geckodriver	INFO	Listening on 127.0.0.1:64117
+1603547244152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofile3FcsuS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603547248632	Marionette	INFO	Listening on port 64125
+1603547248980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603549338488	Marionette	INFO	Stopped listening on port 64125
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603547485559	Marionette	INFO	Listening on port 64202
+1603547485746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603547493426	Marionette	INFO	Stopped listening on port 64202
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603547543593	geckodriver	INFO	Listening on 127.0.0.1:64252
+1603547546632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileR1378q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603547550960	Marionette	INFO	Listening on port 64260
+1603547551390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+1603548077380	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603549337377	Marionette	INFO	Stopped listening on port 64260
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -1,0 +1,30 @@
+1603590697033	geckodriver	INFO	Listening on 127.0.0.1:50230
+1603590700113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofile4wyTnq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603590712745	Marionette	INFO	Listening on port 50239
+1603590713180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: http://erp.lemfix.com/js/layer/3.1/layer.js, line 1173: unreachable code after return statement
+JavaScript warning: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js, line 98: Script terminated by timeout at:
+ct.Event@https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:98:432
+simulate@https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:98:48
+r@https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/jquery/jquery-1.10.2.min_65682a2.js:103:119
+
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603594219386	geckodriver	INFO	Listening on 127.0.0.1:51396
+1603594229155	geckodriver	INFO	Listening on 127.0.0.1:51402
+1603594232215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mo\\AppData\\Local\\Temp\\rust_mozprofileRyK26l"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603594236110	Marionette	INFO	Listening on port 51410
+1603594253240	Marionette	INFO	Stopped listening on port 51410
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
